@@ -3,6 +3,12 @@
 
 <p> Aprendi a criar um contador utilizando o HTML, CSS e JavaScript</p>
 
+<br>
+
+<img src="image/tela-contador.png" alt="contador">
+
+<br>
+
 <div style="display: flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" widht="50px" height="50px"/>
 
